@@ -32,3 +32,18 @@ FROM netflix_content
 WHERE type = 'Movie' AND release_year IS NOT NULL
 GROUP BY release_year
 ORDER BY release_year;
+
+## 📈 Öne Çıkan Sonuçlar
+
+- Filmler, dizilerden yaklaşık 2 kat daha fazla.
+- En çok içerik üreten ülkeler: ABD, Hindistan, İngiltere.
+- İçerik üretimi 2018-2020 yıllarında zirve yapmış.
+- Belgesel, Dramatik ve Uluslararası içerikler öne çıkıyor.
+
+## 👤 Hazırlayan
+
+**Recep Özcan**  
+📍 İzmir, Türkiye  
+📧 ozcanrec@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/recep-%C3%B6zcan-6496a5224)  
+
